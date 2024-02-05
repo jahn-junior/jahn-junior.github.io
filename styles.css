@@ -9,6 +9,10 @@
     animation-fill-mode: forwards;
 }
 
+.custom-body {
+    font-size: 20px;
+}
+
 @keyframes fadeInAnimation {
     0% {
         opacity: 0;
